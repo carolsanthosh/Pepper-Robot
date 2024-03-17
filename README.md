@@ -27,7 +27,8 @@ Refer Github : https://github.com/care-group/Pepper-Docker.git
 ## How to Use
 1. Open the Docker web interface from https://localhost:5000/
 
-![image](https://github.com/carolsanthosh/Pepper-Robot/assets/42265511/d32a9de5-0237-41da-943e-8670003d5680)
+![image](https://github.com/carolsanthosh/Pepper-Robot/assets/42265511/ea3ea8d6-246a-4fd5-97b3-a309ada87183)
+
 
 2. **Connect Robot** section is for connecting to the robot with basic essential controls
 ![image](https://github.com/carolsanthosh/Pepper-Robot/assets/42265511/8182ee55-0115-4855-a422-37b3cae23d26)
